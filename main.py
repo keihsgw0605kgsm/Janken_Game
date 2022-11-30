@@ -12,10 +12,10 @@ a = QApplication(sys.argv)
   
 # The QWidget widget is the base class of all user interface objects in PyQt4.
 w = QWidget()
-  
+
 # Set window size.
 w.resize(540, 400)
-  
+
 # Set window title
 w.setWindowTitle("じゃんけんゲーム")
  
